@@ -32,6 +32,9 @@ url = "https://github.com/zCloak-Network/substrate-subxt"
 missing = true
 
 [[repo]]
+url = "https://github.com/zCloak-Network/valid.one-app"
+
+[[repo]]
 url = "https://github.com/zCloak-Network/winterfell"
 
 [[repo]]
@@ -44,3 +47,6 @@ url = "https://github.com/zCloak-Network/zCloak-keeper"
 [[repo]]
 url = "https://github.com/zCloak-Network/zcloak-node"
 missing = true
+
+[[repo]]
+url = "https://github.com/zCloak-Network/ZK-Maze"

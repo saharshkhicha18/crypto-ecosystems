@@ -4,9 +4,8 @@ title = "Kava.io"
 sub_ecosystems = [
   "API3",
   "Celer Network cBridge",
-  "Curve Labs",
+  "Curve",
   "Elk Finance",
-  "Injective",
   "LayerZero",
   "MoonFarm",
   "Redstone Finance",

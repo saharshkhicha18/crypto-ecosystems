@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Berachain Foundation"
 
-sub_ecosystems = []
+sub_ecosystems = ["DipDup"]
 
 github_organizations = ["https://github.com/berachain"]
 
@@ -24,6 +24,9 @@ url = "https://github.com/berachain/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/berachain/default-token-list"
+
+[[repo]]
+url = "https://github.com/berachain/default-validator-list"
 
 [[repo]]
 url = "https://github.com/berachain/devnet-in-a-box"
@@ -58,6 +61,9 @@ url = "https://github.com/berachain/go-utils"
 [[repo]]
 url = "https://github.com/berachain/goreleaser-pro-cross"
 missing = true
+
+[[repo]]
+url = "https://github.com/berachain/guides"
 
 [[repo]]
 url = "https://github.com/berachain/hive"

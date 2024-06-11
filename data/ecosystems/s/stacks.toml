@@ -103,6 +103,9 @@ url = "https://github.com/0xNazgul/Pointer-Apps"
 url = "https://github.com/0xShoaib/music-bird-nft"
 
 [[repo]]
+url = "https://github.com/0xSY3/ClarityCraftAI"
+
+[[repo]]
 url = "https://github.com/0xTaiga/DefiLlama-Adapters"
 
 [[repo]]
@@ -186,6 +189,9 @@ url = "https://github.com/abdul-maajid/clarinet-projects"
 url = "https://github.com/AbdulBasit-MrRobo/Counter-Even-Odd"
 
 [[repo]]
+url = "https://github.com/abhaydee/InfinityStack"
+
+[[repo]]
 url = "https://github.com/ablin42/DefiLlama-Adapters"
 
 [[repo]]
@@ -199,6 +205,10 @@ url = "https://github.com/AbsorbingChaos/send-many-stx-cli"
 
 [[repo]]
 url = "https://github.com/accru-finance/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/acse-am9023/ShareBit"
+missing = true
 
 [[repo]]
 url = "https://github.com/addmorebass/DefiLlama-Adapters"
@@ -282,6 +292,9 @@ url = "https://github.com/ajtruex/vue-blockstack-todo"
 
 [[repo]]
 url = "https://github.com/aKacharava/clarinet-project"
+
+[[repo]]
+url = "https://github.com/AkhileshJyotishi/cryptoRealms"
 
 [[repo]]
 url = "https://github.com/akhilpandey1/vscode-push"
@@ -389,6 +402,9 @@ url = "https://github.com/alexgo-io/npm-cjs"
 
 [[repo]]
 url = "https://github.com/alexgo-io/onekey-monorepo"
+
+[[repo]]
+url = "https://github.com/alexgo-io/post-condition-example"
 
 [[repo]]
 url = "https://github.com/alexgo-io/redstone-cache-layer"
@@ -525,6 +541,9 @@ url = "https://github.com/Aman-zishan/friend.tech"
 
 [[repo]]
 url = "https://github.com/Amarnath-Rao/Animania"
+
+[[repo]]
+url = "https://github.com/Amarnath-Rao/rl2-bitcoinai-contractapp"
 
 [[repo]]
 url = "https://github.com/Amarnath-Rao/Voucherize"
@@ -772,6 +791,9 @@ url = "https://github.com/AYCHDeveloper/Blockstack"
 url = "https://github.com/AYCHX/AYCHX.github.io"
 
 [[repo]]
+url = "https://github.com/aymann121/aymann121.github.io"
+
+[[repo]]
 url = "https://github.com/ayushsahu247/Clarity-Smart-Contract-Time-Locked-Wallet"
 missing = true
 
@@ -911,6 +933,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/BizniusAI/lending-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/blackholeorganization/BlackHoleMobile"
@@ -1172,6 +1195,9 @@ url = "https://github.com/cdepman/blockstack-animal-kingdom"
 url = "https://github.com/cdepman/Prim"
 
 [[repo]]
+url = "https://github.com/cdirks4/platform"
+
+[[repo]]
 url = "https://github.com/celer-network/DefiLlama-Adapters"
 
 [[repo]]
@@ -1220,6 +1246,9 @@ url = "https://github.com/chanakyha/ZAD-Warpspeed"
 url = "https://github.com/chancelorb/vriend"
 
 [[repo]]
+url = "https://github.com/Charan-Patnaik/Easy_design_btc"
+
+[[repo]]
 url = "https://github.com/CHAUDHARYYYY/stacks-blockchain"
 
 [[repo]]
@@ -1230,6 +1259,9 @@ url = "https://github.com/childish-zamboni/ViralChain"
 
 [[repo]]
 url = "https://github.com/chrisbward/Stacks-Hello-World-Tutorial"
+
+[[repo]]
+url = "https://github.com/chulahn/hello-stacks"
 
 [[repo]]
 url = "https://github.com/Chus4/hello"
@@ -1905,6 +1937,7 @@ missing = true
 
 [[repo]]
 url = "https://github.com/divyesh87/clarity-nft-market-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/divyesh87/stacks-nft-frontend"
@@ -2236,6 +2269,7 @@ url = "https://github.com/dsscoder/vue-stacks-template"
 
 [[repo]]
 url = "https://github.com/DTN-Developer-sNepal/OrdinalsTrack"
+missing = true
 
 [[repo]]
 url = "https://github.com/dtybel/btcrecover"
@@ -2457,6 +2491,9 @@ url = "https://github.com/ethereal-market/market"
 [[repo]]
 url = "https://github.com/eugeneh1217/totemPass"
 missing = true
+
+[[repo]]
+url = "https://github.com/Eurphus/stable-stack"
 
 [[repo]]
 url = "https://github.com/eusebiogit/blockstackWebInterfaceRPC"
@@ -3136,6 +3173,9 @@ url = "https://github.com/harshshaw/-Crypto-Dapp"
 url = "https://github.com/hasan5afari/fractionalizer-rea"
 
 [[repo]]
+url = "https://github.com/hashhavoc/teller"
+
+[[repo]]
 url = "https://github.com/hatskier/blockgag.co"
 
 [[repo]]
@@ -3764,6 +3804,9 @@ url = "https://github.com/isabella232/stacks-blockchain-api"
 url = "https://github.com/isabella232/stacks.js"
 
 [[repo]]
+url = "https://github.com/iShivam8/kratos"
+
+[[repo]]
 url = "https://github.com/iskdrews/practicing-clarity-hello-world"
 
 [[repo]]
@@ -3799,6 +3842,9 @@ url = "https://github.com/jaeboklee-modo/Clarity-misc"
 
 [[repo]]
 url = "https://github.com/jafri/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/jahaskell53/clarity-hello-world"
 
 [[repo]]
 url = "https://github.com/jahbolero/verb-land"
@@ -5032,6 +5078,7 @@ url = "https://github.com/MVelascoWS/tiny-market"
 
 [[repo]]
 url = "https://github.com/mxnnn/stacks.rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/mysterycommand/blockpaint"
@@ -5158,6 +5205,9 @@ url = "https://github.com/njordhov/react-blockstack"
 url = "https://github.com/NJUaaron/FT_42"
 
 [[repo]]
+url = "https://github.com/nkoorty/StacksBoston"
+
+[[repo]]
 url = "https://github.com/nmalzieu/starky"
 
 [[repo]]
@@ -5266,6 +5316,9 @@ url = "https://github.com/omgil877/tiny-market-og"
 
 [[repo]]
 url = "https://github.com/omgil877/Venture-Menu-by-Olbin-Gil---smart-contract"
+
+[[repo]]
+url = "https://github.com/onyedikachi-david/p2p-escrow"
 
 [[repo]]
 url = "https://github.com/Onyx-Protocol/DefiLlama-Adapters"
@@ -5544,6 +5597,9 @@ url = "https://github.com/patrickdevivo/blockportfol.io"
 url = "https://github.com/patrickdugan/arkadiko"
 
 [[repo]]
+url = "https://github.com/pbkompasz/stacks-insur"
+
+[[repo]]
 url = "https://github.com/PDF-CEO/City-Coins-"
 
 [[repo]]
@@ -5811,6 +5867,9 @@ url = "https://github.com/proiacm/tiny-market"
 
 [[repo]]
 url = "https://github.com/Project-MCMLXXXIII/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/proofofgame/find_to_earn"
 
 [[repo]]
 url = "https://github.com/proofofgame/skullcoin"
@@ -6212,6 +6271,9 @@ url = "https://github.com/ryanwaits/executor-dao"
 url = "https://github.com/ryanwaits/nft-bot"
 
 [[repo]]
+url = "https://github.com/s-alad/Raized"
+
+[[repo]]
 url = "https://github.com/saad-s/bns"
 
 [[repo]]
@@ -6319,10 +6381,15 @@ url = "https://github.com/Santhoshsiva97/celo-charity-dapp"
 url = "https://github.com/SarathiNanavati/LW3-Password-Manager"
 
 [[repo]]
+url = "https://github.com/sata-network/Ready-L2-Sata"
+
+[[repo]]
 url = "https://github.com/Satoshiaaw2/HiroTask1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satoshiaaw2/HiroTask2"
+missing = true
 
 [[repo]]
 url = "https://github.com/satoshibles/Domain-Name-List"
@@ -6367,6 +6434,7 @@ url = "https://github.com/seetadev/TitleTransfer"
 
 [[repo]]
 url = "https://github.com/SeFo-Finance/lending-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/segongora/Bubble-Plugin-stacks-plugin"
@@ -6472,6 +6540,9 @@ url = "https://github.com/ShivankK26/Voting-dApp"
 
 [[repo]]
 url = "https://github.com/shozabhussain/CS360-Project"
+
+[[repo]]
+url = "https://github.com/shreyagupta30/StackCred"
 
 [[repo]]
 url = "https://github.com/shreyashonnalli/StacksEasyA"
@@ -6770,6 +6841,7 @@ url = "https://github.com/Stacker2023/FriendTech"
 
 [[repo]]
 url = "https://github.com/StackerDAOs/alexandria-stx-datalake"
+missing = true
 
 [[repo]]
 url = "https://github.com/StackerDAOs/backend"
@@ -7381,6 +7453,9 @@ url = "https://github.com/SustainableCreations/DefiLlama-Adapters"
 url = "https://github.com/suyonsohn/hello-blockstack"
 
 [[repo]]
+url = "https://github.com/svntax/ReadyLayer2-Hackathon"
+
+[[repo]]
 url = "https://github.com/swaapnilkothawade/DefiLlama-Adapters"
 
 [[repo]]
@@ -7645,6 +7720,9 @@ url = "https://github.com/tofauti-net/tofauti"
 [[repo]]
 url = "https://github.com/tokyo-lab/btc-smart-contract"
 missing = true
+
+[[repo]]
+url = "https://github.com/Tolujoh-n/tolu-bit-hacks"
 
 [[repo]]
 url = "https://github.com/tomasellis/clarity-tutorials"
@@ -8223,6 +8301,9 @@ url = "https://github.com/yknl/stacks-chain-status"
 url = "https://github.com/yknl/stacks.js"
 
 [[repo]]
+url = "https://github.com/ymayank97/crisisChime"
+
+[[repo]]
 url = "https://github.com/youfoundron/stacks.js"
 
 [[repo]]
@@ -8355,3 +8436,4 @@ url = "https://gitlab.com/steve-dejo/animo"
 
 [[repo]]
 url = "https://gitlab.com/vaultilo/vaultilo-app"
+
